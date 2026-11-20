@@ -1,5 +1,7 @@
 # Посмотри в окно
 
+https://github.com/anna-nikk/posmotri-v-okno-ad
+
 Распакуйте архив и откройте `index.html` через Live Server. Для загрузки видео нужен интернет.
 
 Локальные файлы шрифтов не были приложены. Скопируйте из стартового репозитория в папку `fonts/` файлы `Oswald-Bold`, `FiraSansCondensed-Regular` и `FiraSansCondensed-Bold` в форматах `.woff2` и `.woff`. До этого браузер будет использовать запасной шрифт.
